@@ -13,7 +13,7 @@ import {
   Dimensions
 } from 'react-native';
 
-import QRCodeScanner from 'react-native-qrcode-scanner';
+import QRCodeScanner from 'eshiply-react-native-qrcode-scanner';
 
 class ScanScreen extends Component {
   onSuccess(e) {
